@@ -81,7 +81,7 @@ export default {
   },
   data() {
     return {
-      links: ['Home', 'About', 'Products', 'Black Friday'],
+      links: ['Home', 'About', 'Products', 'Black Friday']
     }
   }
 }
